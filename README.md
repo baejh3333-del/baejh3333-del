@@ -28,7 +28,6 @@
 ### ✅ 마무리한 것
 
 - **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 냉장고에 있는 재료로 만들 수 있는 요리 찾기
-- **[naver_ai_agent](https://github.com/baejh3333-del/naver_ai_agent)** — 네이버 검색을 붙인 AI 에이전트
 
 ### 🧩 할 수 있는 것
 
