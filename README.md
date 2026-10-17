@@ -22,14 +22,13 @@
 실시간 파이프라인, 프롬프트 캐시 경계 설계, 일일 비용 회로차단기. 값은 전부 재실행 가능한 측정에서 나옵니다.
 앞으로 **오픈클로**, **로봇팔**, **카메라 기반 객체 감지**를 붙일 예정입니다 — 말만 하는 동거인에서 실제로 보고 움직이는 쪽으로.
 
-**[ai-grit](https://github.com/baejh3333-del/ai-grit)** — 제1회 전국 농과계 대학 농업 AI 경진대회 · 시설작물 이미지 신뢰성 판별
-"가짜를 배우지 말고 진짜를 배운다" — 생성기가 비공개인 상황에서, 좁은 도메인의 실제 이미지 정상 분포를 학습해 이탈을 탐지하는 쪽으로 접근 중입니다.
-
 **[soso-portfolio](https://github.com/baejh3333-del/soso-portfolio)** — 캠퍼스를 걸어서 땅을 넓히는 위치 기반 멀티플레이 웹게임
 실시간 GPS 동선 → 폐곡선 판정 → 영토 합집합. 강원대 산책 동아리의 "모임 밖에서는 아무도 안 걷는다" 문제를 게임 규칙으로 풀어보는 중입니다. ([라이브 데모](https://sosoc-app-seven.vercel.app/))
 
 ### ✅ 마무리한 것
 
+- **[strawberry-fake-detector](https://github.com/baejh3333-del/strawberry-fake-detector)** — 제1회 전국 농과계 대학 농업 AI 경진대회 · 딸기 시설재배 사진의 실제/AI 생성 판별
+  공개 예시 21장에서 시작해 15종+ 생성기로 학습 데이터 1.7만 장을 직접 만들고, 원본 해상도 조각 + 고정 DINOv3 + 생성 방식별 Expert로 **비공개 평가 accuracy 0.87** (T4에서 524장 152초, 0.64GB). validation과 리더보드 격차를 leave-one-generator-out으로 규명한 기록까지 남겼습니다.
 - **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 냉장고에 있는 재료로 만들 수 있는 요리 찾기
 
 ### 🧩 할 수 있는 것
