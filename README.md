@@ -29,7 +29,7 @@
 
 - **[strawberry-fake-detector](https://github.com/baejh3333-del/strawberry-fake-detector)** — 제1회 전국 농과계 대학 농업 AI 경진대회 · 딸기 시설재배 사진의 실제/AI 생성 판별
   공개 예시 21장에서 시작해 15종+ 생성기로 학습 데이터 1.7만 장을 직접 만들고, 원본 해상도 조각 + 고정 DINOv3 + 생성 방식별 Expert로 **비공개 평가 accuracy 0.87** (T4에서 524장 152초, 0.64GB). validation과 리더보드 격차를 leave-one-generator-out으로 규명한 기록까지 남겼습니다.
-- **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 냉장고에 있는 재료로 만들 수 있는 요리 찾기
+- **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 네이버 AI 에이전트 챌린지 · 냉장고에 있는 재료로 만들 수 있는 요리 찾기
 
 ### 🧩 할 수 있는 것
 
