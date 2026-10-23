@@ -19,17 +19,18 @@
 ### 🔨 지금 만들고 있는 것
 
 **[ai-girlfriend-portfolio](https://github.com/baejh3333-del/ai-girlfriend-portfolio)** — 음성 대화 + Live2D 아바타 + 집안 기기 제어 AI 동거인
-실시간 파이프라인, 프롬프트 캐시 경계 설계, 일일 비용 회로차단기. 값은 전부 재실행 가능한 측정에서 나옵니다.
-앞으로 **오픈클로**, **로봇팔**, **카메라 기반 객체 감지**를 붙일 예정입니다 — 말만 하는 동거인에서 실제로 보고 움직이는 쪽으로.
+라즈베리파이로 iot제어, pc에서는 ai에이전트 연동으로 컴퓨터 제어 및 자동화, 기억, 감정표현을 구현중에 있음. 2d로 모니터 속에서 ㅌ캐틱터와 상호작용까지는 이끌어낸 상태이고 이후 3d 모델링이 진짜처럼 상호작용 가능하게 발전시킬 예정 
 
 **[soso-portfolio](https://github.com/baejh3333-del/soso-portfolio)** — 캠퍼스를 걸어서 땅을 넓히는 위치 기반 멀티플레이 웹게임
-실시간 GPS 동선 → 폐곡선 판정 → 영토 합집합. 강원대 산책 동아리의 "모임 밖에서는 아무도 안 걷는다" 문제를 게임 규칙으로 풀어보는 중입니다. ([라이브 데모](https://sosoc-app-seven.vercel.app/))
+강원대 산책 동아리의 "모임 밖에서는 아무도 안 걷는다" 문제를 게임 규칙으로 풀어보는 중입니다.
+([라이브 데모](https://sosoc-app-seven.vercel.app/))
 
 ### ✅ 마무리한 것
 
 - **[strawberry-fake-detector](https://github.com/baejh3333-del/strawberry-fake-detector)** — 제1회 전국 농과계 대학 농업 AI 경진대회 · 딸기 시설재배 사진의 실제/AI 생성 판별
-  공개 예시 21장에서 시작해 15종+ 생성기로 학습 데이터 1.7만 장을 직접 만들고, 원본 해상도 조각 + 고정 DINOv3 + 생성 방식별 Expert로 **비공개 평가 accuracy 0.87** (T4에서 524장 152초, 0.64GB). validation과 리더보드 격차를 leave-one-generator-out으로 규명한 기록까지 남겼습니다.
-- **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 네이버 AI 에이전트 챌린지 · 냉장고에 있는 재료로 만들 수 있는 요리 찾기
+여러가지 가짜 이미지 기법들 사이에서 진짜 이미지를 구분하는 미션. accuracy는 0.87로 한달 기간의 대회를 마침
+ 
+- **[fridge-recipe-app](https://github.com/baejh3333-del/fridge-recipe-app)** — 네이버 AI 에이전트 챌린지 · 냉장고에 있는 재료로 만들 수 있는 요리 찾기. 처음 제작해본 웹페이지.
 
 ### 🧩 할 수 있는 것
 
