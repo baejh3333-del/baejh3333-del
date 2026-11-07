@@ -18,6 +18,10 @@
 
 ### 🔨 지금 만들고 있는 것
 
+**[gemini-campus-guide-portfolio](https://github.com/baejh3333-del/gemini-campus-guide-portfolio)** — 대학생을 위한 프롬프트 검색·AI 추천·제작·공유 플랫폼  
+GSA team 강원대 AI 마스터 챌린지의 15분 Gemini 실습 페이지에서 시작해, 필요한 프롬프트를 찾고 직접 만들어 공유하는 서비스로 확장하고 있습니다.  
+([라이브 서비스](https://gemini-campus-guide.vercel.app/))
+
 **[ai-girlfriend-portfolio](https://github.com/baejh3333-del/ai-girlfriend-portfolio)** — 음성 대화 + Live2D 아바타 + 집안 기기 제어 AI 동거인
 라즈베리파이로 iot제어, pc에서는 ai에이전트 연동으로 컴퓨터 제어 및 자동화, 기억, 감정표현을 구현중에 있음. 2d로 모니터 속에서 캐릭터와 상호작용까지는 이끌어낸 상태이고 이후 3d 모델링이 진짜처럼 상호작용 가능하게 발전시킬 예정 
 
