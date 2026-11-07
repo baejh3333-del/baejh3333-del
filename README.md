@@ -27,6 +27,11 @@
 
 ### ✅ 마무리한 것
 
+- **[moa-farm-machines · 모아농](https://github.com/baejh3333-del/moa-farm-machines)** — 하려는 작업을 말하면 맞는 농기계를 찾아 주는 AI 농기계 대여·구매 플랫폼  
+  🏆 **2026 강원대학교 AX Challenge · 프로젝트 트랙 종합 대상** · 5인 팀 총괄  
+  AI 상담사 '농농이'의 작업 기반 추천, 호환 작업기 찾기, 대여 요청을 구현했습니다. 기획·핵심 기능 개발·배포·시연을 맡았습니다.  
+  ([라이브 데모](https://moa-farm-machines.vercel.app/))
+
 - **[strawberry-fake-detector](https://github.com/baejh3333-del/strawberry-fake-detector)** — 제1회 전국 농과계 대학 농업 AI 경진대회 · 딸기 시설재배 사진의 실제/AI 생성 판별
 여러가지 가짜 이미지 기법들 사이에서 진짜 이미지를 구분하는 미션. accuracy는 0.87로 한달 기간의 대회를 마침
  
